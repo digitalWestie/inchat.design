@@ -1,6 +1,7 @@
+<br/><br/><br/>
 ## Capture rich stories of users, customers, and services
 
-We combine design ethnography, chatbot technology, and data insights.
+<p class="centre">We combine design ethnography, chatbot technology, and data insights.</p><br/><br/><br/>
  
 ### Chatbot ethnography
 
@@ -25,8 +26,10 @@ Participants are encouraged to share their story with video, audio, or anything 
 <img style="width: 30%;" src="/assets/giraffe.jpg"/>
 <img style="width: 15%;" src="/assets/dialogue.jpg"/>
 
+<br/><br/>
 #### Moving beyond traditional user research methods, towards a more than human perspective
 
+<br/><br/>
 ### About us
 
 Our methods and perspectives were originally developed for the purposes of research in the Design Informatics Research Centre at the University of Edinburgh under the STiPS project, Smart Transactions in Public Spaces. As the research project came to a close, we still had vested interest in developing these methods and platform for service design. We find our technology and methodology to be applicable to most organisations, at any stage between SME or large corporation. In particular, we see an opportunity to address the need to understand end-to-end user journeys across time and space.
@@ -35,8 +38,8 @@ Our methods and perspectives were originally developed for the purposes of resea
 
 <b>Rory Gianni</b> is a freelance developer, trainer, and creative technologist. He has over 9 years experience working with public sector organisations, start-ups, and universities helping them take their early stage concepts to production.  Rory is passionate about sharing and advocating the advantages of digital technology, delivering training on web-development, civic technology, and Open Data. Rory is a registered Open Data Institute (ODI) Open Data Trainer.
 
-
-#### About the Research
+<br/><br/>
+### About the Research
 
 The initial driver for research has been focused on studying visitor transactions in festivals and markets such that the stories and value constellations of various stakeholders could be read and understood. 
 
@@ -52,6 +55,7 @@ Working with Edinburgh City Council was the third phase of research under their 
 
 <a href="#">Case study coming soon</a>
 
+<br/><br/>
 ## Contact us
 
 ### Email
