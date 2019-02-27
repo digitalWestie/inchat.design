@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+.left { text-align: left; }
 .center, .centre { text-align: center; }
 
 h1.project-name {}
@@ -33,4 +34,6 @@ header.page-header {
 
 main.main-content {
   h1,h2,h3,h4 { text-align: center; }
+  .left { text-align: left; }
+  .video-js { background-color: white; }
 }
